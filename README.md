@@ -19,7 +19,7 @@ To get started with either the initial setup or the final version, follow these 
 
     ```bash
     git clone https://github.com/idreeskjk/Beebe.git
-    cd Hamster-Kombat-Telegram-Mini-App-Clone
+    cd Beebe
     ```
 
 ### Initial Setup
